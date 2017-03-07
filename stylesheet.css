@@ -1,39 +1,33 @@
-h1
-{
+h1 {
   color:red;
   font-size:40px;
   width:500px;
   height:100px;
 }
 
-p
-{
+p {
   font-size:10px;
 }
 
 background-color:#000000;
 
-.header
-{
+.header {
    height:56px
    color:FF0000;
    background-color:;
 }
 
-.main
-{
+.main {
    width:1200px;
 }
 
-.footer
-{ 
+.footer { 
    height:245px;
    background-color:99CC99;
    clear:left;
 }
 
-.sidebar
-{
+.sidebar {
    height:650px;
    background-color:9999CC;
    width:650px;
@@ -44,8 +38,7 @@ background-color:#000000;
 
 
 
-.contents
-{
+.contents {
    height:650px;
    background-color:9966CC;
    width:800px;
